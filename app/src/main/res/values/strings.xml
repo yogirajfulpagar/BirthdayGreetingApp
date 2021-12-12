@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="_1">1</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="golu">Golu</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="folabi">folabi</string>
+</resources>
